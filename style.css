@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    padding: 35px;
+    border: 1px #493c38 solid;
+    background-color: #f7f5f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+h1 {
+    /*font-family: 'Fresca', sans-serif;*/
+    /*font-family: 'Pacifico', cursive;*/
+    font-family: 'Lily Script One', cursive;
+    /*font-family: 'Bungee Inline', cursive;*/
+    /*font-family: 'Vast Shadow', cursive;*/
+    /*font-family: 'Finger Paint', cursive;*/
+    /*font-family: 'Podkova', serif;*/
+    /*font-family: 'Barrio', cursive;*/
+    /*font-family: 'Bungee Shade', cursive;*/
+    /*font-family: 'Rosarivo', serif;*/
+    /*font-family: 'Londrina Outline', cursive;*/
+    /*font-family: 'Jacques Francois Shadow', cursive;*/
+    color: #f46b42;
+    text-align: center;
+    font-size: 175px;
+}
+h2 {
+    /*font-family: 'Fresca', sans-serif;*/
+    /*font-family: 'Pacifico', cursive;*/
+    /*font-family: 'Lily Script One', cursive;*/
+    font-family: 'Bungee Inline', cursive;
+    /*font-family: 'Vast Shadow', cursive;*/
+    /*font-family: 'Finger Paint', cursive;*/
+    /*font-family: 'Podkova', serif;*/
+    /*font-family: 'Barrio', cursive;*/
+    /*font-family: 'Bungee Shade', cursive;*/
+    /*font-family: 'Rosarivo', serif;*/
+    /*font-family: 'Londrina Outline', cursive;*/
+    /*font-family: 'Jacques Francois Shadsow', cursive;*/
+    color: #15375b;
+    color: #17406b;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 98px;
+    font-weight: 100;
+}
+@media (max-width: 499px) {
+    h1 {
+        font-size: 114px;
+    }
+    h2 {
+        margin-top: -33px;
+        font-size: 62px;
+    }
+}
+@media (max-height: 499px) {
+    h1 {
+        font-size: 114px;
+    }
+    h2 {
+        margin-top: -33px;
+        font-size: 62px;
+    }
+}
