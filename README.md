@@ -1,3 +1,3 @@
 # oho
 oho.media home page design  
-<https://github.com/oho-media/oho.git>
+<https://oho-media.github.io/oho/>
