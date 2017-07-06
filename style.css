@@ -24,56 +24,18 @@ main:hover {
     border-radius: 50%;
 }
 h1 {
-    /*font-family: 'Fresca', sans-serif;*/
-    /*font-family: 'Pacifico', cursive;*/
     font-family: 'Lily Script One', cursive;
-    /*font-family: 'Bungee Inline', cursive;*/
-    /*font-family: 'Vast Shadow', cursive;*/
-    /*font-family: 'Finger Paint', cursive;*/
-    /*font-family: 'Podkova', serif;*/
-    /*font-family: 'Barrio', cursive;*/
-    /*font-family: 'Bungee Shade', cursive;*/
-    /*font-family: 'Rosarivo', serif;*/
-    /*font-family: 'Londrina Outline', cursive;*/
-    /*font-family: 'Jacques Francois Shadow', cursive;*/
     color: #f46b42;
     text-align: center;
     font-size: 175px;
 }
 h2 {
-    /*font-family: 'Bungee Inline', cursive;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Raleway', sans-serif;
-    font-family: 'Jaldi', sans-serif;
-    font-family: 'Josefin Slab', serif;
-    font-family: 'Poiret One', cursive;
-    font-family: 'Rajdhani', sans-serif;
-    font-family: 'Armata', sans-serif;
-    font-family: 'Julius Sans One', sans-serif;
-    font-family: 'Fira Sans Condensed', sans-serif;
-    font-family: 'Molengo', sans-serif;
-    font-family: 'Advent Pro', sans-serif;*/
     font-family: 'Montserrat Alternates', sans-serif;
-    /*font-family: 'Nixie One', cursive;
-    font-family: 'Gruppo', cursive;
-    font-family: 'Megrim', cursive;
-    font-family: 'Mallanna', sans-serif;
-    font-family: 'Italiana', serif;
-    font-family: 'Nova Mono', monospace;
-    font-family: 'Pavanam', sans-serif;
-    font-family: 'Text Me One', sans-serif;
-    font-family: 'Nova Round', cursive;
-    font-family: 'Nova Slim', cursive;
-    font-family: 'Chathura', sans-serif;
-    font-family: 'Bungee Hairline', cursive;
-    font-family: 'Meera Inimai', sans-serif;*/
+    
     text-transform: uppercase;
     color: #15375b;
     color: #17406b;
-    /*text-align: right;*/
     margin-top: -63px;
-    /*margin-right: 0.02em;*/
     margin-left: 4.63em;
     -webkit-margin-start: 4.63em;
     -moz-margin-start: 4.95em;
